@@ -80,7 +80,7 @@ export const portfolioData: PortfolioData = {
       tagline: "Current Project @ TCS",
       description: "Modernizing the bill payment ecosystem for City Union Bank using Angular 18+.",
       fullDetails: "Developing new user interface screens for the Bill Pay module. I focus on delivering seamless, user-friendly interfaces by identifying and resolving customer-reported issues. My work ensures responsive layouts and consistent performance across all platforms.",
-      technologies: ["Angular 18+", "TypeScript", "RESTful API", "Bootstrap 5", "SQL Server"],
+      technologies: ["Angular 18+", "TypeScript", "Bootstrap"],
       image: "https://thumbs.dreamstime.com/b/digital-invoice-form-tax-management-concept-businessman-using-calculator-laptop-billing-e-invoicing-online-accounting-402775481.jpg",
       outcomes: [
         "Enhanced transaction flow efficiency and security.",
@@ -108,7 +108,7 @@ export const portfolioData: PortfolioData = {
       tagline: "Enterprise Medical Solutions @ Dedalus",
       description: "Automating medical diagnostic workflows and secure audit logging.",
       fullDetails: "Comprises three major modules: LIMS (automating lab workflows/tracking), Audit Viewer (tracking end-to-end workflow history), and Job Scheduler (managing background jobs). Integrated Elasticsearch 8.x to handle sub-second searches across millions of medical records with secure snapshot/restore procedures.",
-      technologies: ["Angular 18", "Elasticsearch 8.17.0", "Logstash", "Filebeat", "Web API", "Intersystem Cache"],
+      technologies: ["Angular 18+", "Elasticsearch 8.17.0", "Logstash", "Filebeat", "Web API", "Intersystem Cache", "SQL Server"],
       image: "https://media.licdn.com/dms/image/v2/D4D10AQGut7dG39caCw/image-shrink_800/B4DZYef.5tH4Ag-/0/1744268423302?e=2147483647&v=beta&t=M1VTUuJ5EYil5TxGRbioc6xcQG3br4JriKCfsvsRfGk",
       outcomes: [
         "Upgraded Elasticsearch from 7.16.1 to 8.17.0.",
