@@ -39,7 +39,7 @@ const Hero: React.FC = () => {
                 <div className="absolute inset-0 bg-white/10 translate-y-full group-hover:translate-y-0 transition-transform duration-300"></div>
               </a>
               <a 
-                href="./Asset/Michael Mathan Resume.pdf"
+                href="/Asset/Michael Mathan Resume.pdf"
                 download="Michael_Mathan_S_Resume.pdf"
                 className="px-8 py-4 bg-slate-800 hover:bg-slate-700 text-white font-semibold rounded-lg transition-all border border-slate-700 flex items-center gap-2 hover:border-cyan-500/50"
               >
@@ -62,7 +62,7 @@ const Hero: React.FC = () => {
 
               <div className="absolute inset-4 overflow-hidden rounded-full border-4 border-slate-900 shadow-2xl z-10 group-hover:scale-105 transition-transform duration-700">
                 <img 
-                  src="./Asset/Mathan.jpeg" 
+                  src="/Asset/Mathan.jpeg" 
                   alt="Profile" 
                   className="w-full h-full object-cover"
                 />
