@@ -76,7 +76,7 @@ export const portfolioData: PortfolioData = {
   projects: [
     {
       id: "cub-billpay",
-      title: "City Union Bank - Bill Pay",
+      title: "City Union Bank",
       tagline: "Current Project @ TCS",
       description: "Modernizing the bill payment ecosystem for City Union Bank using Angular 18+.",
       fullDetails: "Developing new user interface screens for the Bill Pay module. I focus on delivering seamless, user-friendly interfaces by identifying and resolving customer-reported issues. My work ensures responsive layouts and consistent performance across all platforms.",
@@ -91,7 +91,7 @@ export const portfolioData: PortfolioData = {
     {
       id: "asml-avt",
       title: "ASML Validation Tools (AVT)",
-      tagline: "Semiconductor Industrialization Tool",
+      tagline: "Advanced Semiconductor Materials Lithography @ TCS",
       description: "Standardizes NPI process iterations for industrialization deliverables.",
       fullDetails: "AVT streamlines validation and verification of product-specific information for 6p=P industrialization deliverables. It standardizes the NPI process, reducing iterations to a maximum of five and accelerating time to market. It provides real-time visibility into validation status and follow-up actions while integrating with GRE, AIR, and Coach systems.",
       technologies: ["Angular 18/19", "JavaScript", "HTML5/CSS3", "Git", "JIRA", "Cypress"],
@@ -104,7 +104,7 @@ export const portfolioData: PortfolioData = {
     },
     {
       id: "dedalus-healthcare",
-      title: "Healthcare Ecosystem (LIMS & Audit)",
+      title: "Laboratory Information Management System (LIMS)",
       tagline: "Enterprise Medical Solutions @ Dedalus",
       description: "Automating medical diagnostic workflows and secure audit logging.",
       fullDetails: "Comprises three major modules: LIMS (automating lab workflows/tracking), Audit Viewer (tracking end-to-end workflow history), and Job Scheduler (managing background jobs). Integrated Elasticsearch 8.x to handle sub-second searches across millions of medical records with secure snapshot/restore procedures.",
