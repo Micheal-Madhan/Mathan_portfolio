@@ -75,17 +75,18 @@ export const portfolioData: PortfolioData = {
   ],
   projects: [
     {
-      id: "cub-billpay",
-      title: "City Union Bank",
+      id: "tnsc-digital-banking",
+      title: "TNSC Bank Digital Banking Platform",
       tagline: "Current Project @ TCS",
-      description: "Modernizing the bill payment ecosystem for City Union Bank using Angular 18+.",
-      fullDetails: "Developing new user interface screens for the Bill Pay module. I focus on delivering seamless, user-friendly interfaces by identifying and resolving customer-reported issues. My work ensures responsive layouts and consistent performance across all platforms.",
-      technologies: ["Angular 18+", "TypeScript", "Bootstrap"],
+      description: "The TNSC Bank Digital Banking Platform provides secure Internet Banking, Mobile Banking, and Bill Payment services for cooperative banks across Tamil Nadu.",
+      fullDetails: "The platform enables customers to perform banking transactions, manage accounts, access digital services, and make payments through a unified banking ecosystem. It supports bank-specific branding, customized user experiences, and seamless integration with multiple banking and payment service providers, delivering a modern and efficient digital banking solution.",
+      technologies: ["Angular 18+", "JavaScript", "HTML5", "CSS3", "JAVA", "Github"],
       image: "https://thumbs.dreamstime.com/b/digital-invoice-form-tax-management-concept-businessman-using-calculator-laptop-billing-e-invoicing-online-accounting-402775481.jpg",
       outcomes: [
-        "Enhanced transaction flow efficiency and security.",
-        "Delivered multiple new screens and custom UI controls.",
-        "Zero-downtime integration of 10+ billing partners."
+        "Developed and enhanced Internet Banking, Mobile Banking, and Bill Payment applications for cooperative banks.",
+        "Customized platforms for various banks with unique branding and business requirements.",
+        "Integrated 10+ billing partners into the Bharat Bill Payment ecosystem.",
+        "Collaborated with cross-functional teams to deliver high-quality solutions in an Agile environment."
       ]
     },
     {
