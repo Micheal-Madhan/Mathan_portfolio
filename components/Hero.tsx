@@ -62,7 +62,7 @@ const Hero: React.FC = () => {
 
               <div className="absolute inset-4 overflow-hidden rounded-full border-4 border-slate-900 shadow-2xl z-10 group-hover:scale-105 transition-transform duration-700">
                 <img 
-                  src="/Asset/Mathan.jpeg" 
+                  src="/Asset/Mathan.jpg" 
                   alt="Profile" 
                   className="w-full h-full object-cover"
                 />
