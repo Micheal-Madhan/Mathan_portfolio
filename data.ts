@@ -39,14 +39,16 @@ export const portfolioData: PortfolioData = {
   ],
   experience: [
     {
-      company: "TCS (Tata Consultancy Services) - City Union Bank",
-      role: "Software Developer",
+      company: "TCS (Tata Consultancy Services) - TNSC Bank Digital Banking Platform",
+      role: "Senior Application Developer",
       period: "Dec 2025 - Present",
       description: [
-        "Architecting modern UI screens for the <span class='text-cyan-400 font-semibold'>City Union Bank Bill Pay module</span> using Angular 18+.",
-        "Identifying and resolving customer-reported issues while optimizing existing features for better scalability.",
-        "Developing custom UI controls and responsive layouts to ensure consistent performance across all browsers.",
-        "Collaborating with bank stakeholders to integrate 10+ new billing partners into the CUB ecosystem."
+        "Leading the development and enhancement of Internet Banking, Mobile Banking, and Bill Payment applications for cooperative banks across Tamil Nadu.",
+        "Collaborating with business stakeholders and development teams to deliver scalable, user-friendly, and high-performance banking solutions.",
+        "Developed new screens, modules, and feature enhancements across banking applications, including custom branding and business requirements for various banks.",
+        "Created reusable UI components and optimized features for performance and maintainability.",
+        "Integrated more than 10 billing partners into the Bharat Bill Payment ecosystem.",
+        "Resolved production issues, participated in code reviews and technical discussions, and ensured successful delivery of high-quality solutions in an Agile environment."
       ]
     },
     {
